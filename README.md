@@ -1,5 +1,12 @@
 # Accessibility Testing — Java
 
+[![Accessibility Tests](https://github.com/Djones-qa/accessibility-testing-java/actions/workflows/accessibility-tests.yml/badge.svg)](https://github.com/Djones-qa/accessibility-testing-java/actions/workflows/accessibility-tests.yml)
+[![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://openjdk.org/projects/jdk/17/)
+[![Maven](https://img.shields.io/badge/Maven-3.8+-blue?logo=apachemaven)](https://maven.apache.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.18.1-green?logo=selenium)](https://www.selenium.dev/)
+[![axe--core](https://img.shields.io/badge/axe--core-4.9.1-purple)](https://github.com/dequelabs/axe-core-maven-html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Automated accessibility testing suite using [axe-core](https://github.com/dequelabs/axe-core-maven-html), Selenium WebDriver, and TestNG.
 
 ## Project Structure
